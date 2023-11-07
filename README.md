@@ -1,4 +1,4 @@
-**Leveraging Data Science for People Analytics**
+# **Leveraging Data Science for People Analytics**
 
 This project uses Python to analyze employee data to identify company trends like pay equity, attrition factors, and correlated features. It then uses the company data set to fit a model that predicts employee performance ratings based on available features.
 
